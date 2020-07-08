@@ -1,5 +1,4 @@
 <h1> TL1 </h1>
-#header {
 	background-color: #9900FF;
 	height: 50px;
 	width: 100px;
